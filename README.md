@@ -18,5 +18,5 @@ This account reflects my learning journey:
 * Projects built step-by-step to build strong fundamentals
 * As I progress, repositories may be updated, improved, or expanded to reflect better design, security practices, and scalability.
 
-🔒 **Note**
-Some projects are intentionally simple or academic in nature, as they are designed to meet university assignment requirements and learning objectives to represent growth, consistency, and long-term learning.
+🔒 **Note
+Projects are simple and academic in nature, as they are designed to meet university assignment requirements and learning objectives to represent growth, consistency, and long-term learning.
