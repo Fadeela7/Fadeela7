@@ -5,8 +5,6 @@ This GitHub account has been created primarily for university academic purposes.
 * Become an AI-based Secure Java Full Stack Developer.
 
 📚 **Learning Approach**
-This account reflects my learning journey:
-* Academic clarity
 * Projects built step-by-step to showcase my strong fundamentals
 
 🔒 **Note**<br>
